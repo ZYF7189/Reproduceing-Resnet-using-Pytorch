@@ -2,9 +2,7 @@
 
 ## 简介 | Introduction
 
-本项目基于PyTorch实现了经典的ResNet和AlexNet网络结构，支持在花卉数据集（flowers）和CIFAR-10数据集上进行训练与测试。项目包含数据预处理、模型训练、测试与可视化等完整流程，适合深度学习初学者和研究者学习与扩展。
-
-This project implements classic ResNet and AlexNet architectures using PyTorch, supporting training and testing on the flowers and CIFAR-10 datasets. It covers data preprocessing, model training, evaluation, and visualization, making it suitable for deep learning beginners and researchers.
+本项目基于PyTorch实现了经典的ResNet网络结构，支持在花卉数据集（flowers）和CIFAR-10数据集上进行训练与测试。项目包含数据预处理、模型训练、测试与可视化等完整流程，适合深度学习初学者和研究者学习与扩展。
 
 ---
 
