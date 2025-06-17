@@ -1,4 +1,4 @@
-# 🌸 PyTorch花卉分类与ResNet/AlexNet项目
+# 🌸 PyTorch花卉分类与ResNet项目
 
 ## 简介 | Introduction
 
